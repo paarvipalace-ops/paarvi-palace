@@ -5,7 +5,7 @@ const roomContent = [
   {
     title: "Deluxe Room",
     description: "Ideal for solo travellers and couples seeking comfort.",
-    image: "/images/rooms/deluxe/7.jpeg",
+    image: "/images/rooms/deluxe/11.jpg",
     slug: "/deluxe-room-in-ayodhya",
   },
   {

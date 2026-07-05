@@ -34,6 +34,8 @@ const deluxeRoomImages = [
   "/images/rooms/deluxe/8.jpeg",
   "/images/rooms/deluxe/9.jpeg",
   "/images/rooms/deluxe/10.jpeg",
+   "/images/rooms/deluxe/11.jpg",
+  "/images/rooms/deluxe/12.jpg",
 ];
 
 export const metadata = {
