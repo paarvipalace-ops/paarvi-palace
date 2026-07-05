@@ -29,7 +29,7 @@ export default function Hero() {
                 <div className="relative z-10 mx-auto flex min-h-[85svh] max-w-7xl items-center px-6 md:h-full">
                     <div className="max-w-xl">
                         <h1 className="text-4xl md:text-6xl font-bold text-white leading-tight">
-                            Welcome to <br /> Paarvi Palaceee
+                            Welcome to <br /> Paarvi Palace
                         </h1>
 
                         <p className="mt-4 text-lg text-gray-200">
